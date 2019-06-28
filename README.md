@@ -1,4 +1,3 @@
 # Machine Learning 
-Learning machine learning by solving datasets from Kaghle, UCI repository etc.
-They are written in jupyter notebooks. Also will try deep learning soon. 
-
+Learning machine learning by solving datasets from Kaggle, UCI repository etc.
+They are written in jupyter notebooks.
